@@ -1,4 +1,3 @@
-# General
 <hr/>
 
 ### get usefull command list
@@ -21,8 +20,7 @@ open repo-folder in cmd first
 ```
 git log
 ```
-
-# submodules
+# Submodules
 <hr/>
 
 ### add a submodule
@@ -33,3 +31,5 @@ git submodule add https://github.com/<user>/<repo>
 ```
 git submodule update --init
 ```
+
+
