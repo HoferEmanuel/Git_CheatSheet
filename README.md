@@ -6,13 +6,13 @@
 <hr/>
 
 # <a name="gitinfo">What does Git do?</a>
-<sup>src.: W3Schools</sup>
 - Project-Management with repositories.
 - Work on a local copy by cloning a repository.
 - Control and track changes by stagging and committing.
 - Branch and Merge to allow for work on different parts and versions of a project
 - Pull the latest version of the project to a local copy
 - Push local updates to the main project
+<sup>https://www.w3schools.com/git/git_intro.asp?remote=github</sup>
 
 
 # <a name="general">General</a>
