@@ -22,7 +22,7 @@ git diff
 ```
 
 ### show commits-overview
-open repo-folder in cmd first
+<sub>open repo-folder in cmd first</sub>
 ```
 git log
 ```
