@@ -6,6 +6,7 @@
 <hr/>
 
 # <a name="gitinfo">What does Git do?</a>
+<sup>src.: W3Schools</sup>
 - Project-Management with repositories.
 - Work on a local copy by cloning a repository.
 - Control and track changes by stagging and committing.
@@ -13,7 +14,6 @@
 - Pull the latest version of the project to a local copy
 - Push local updates to the main project
 
-<sup>src.: W3Schools
 
 # <a name="general">General</a>
 
