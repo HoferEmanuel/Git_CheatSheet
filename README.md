@@ -12,6 +12,7 @@
 - Branch and Merge to allow for work on different parts and versions of a project
 - Pull the latest version of the project to a local copy
 - Push local updates to the main project
+  
 <sup>https://www.w3schools.com/git/git_intro.asp?remote=github</sup>
 
 
