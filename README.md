@@ -1,4 +1,4 @@
-# Content
+# <a name="content">Content</a>
 - [What does Git do?](#gitinfo)
   - [General](#general)
   - [Submodules](#submodules)
@@ -16,7 +16,8 @@
 <sup>https://www.w3schools.com/git/git_intro.asp?remote=github</sup>
 
 
-# <a name="general">General</a>
+# <a name="general" align="left">General</a> <sub><sup>[Back to Content](#content)</sup></sub>
+<hr/>
 
 ## check git-version
 ```
@@ -43,7 +44,9 @@ git diff
 ```
 git log
 ```
-# <a name="submodules">Submodules</a>
+
+
+# <a name="submodules">Submodules</a> <sub><sup>[Back to Content](#content)</sup></sub>
 <hr/>
 
 ### add a submodule
